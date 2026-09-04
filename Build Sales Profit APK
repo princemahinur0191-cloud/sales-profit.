@@ -1,3 +1,5 @@
+name: Build Sales Profit APK
+
 on:
   workflow_dispatch:
   push:
